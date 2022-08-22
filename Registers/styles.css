@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+.title{
+    color: white;
+}
+
+#log{
+    width: auto;
+    height: 30px;
+}
